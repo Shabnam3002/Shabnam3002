@@ -1,3 +1,7 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=4000&pause=1000&color=38C2FF&multiline=true&width=1180&height=220&lines=Hi+%F0%9F%91%8B+I'm+Shabnam.;Turning+ideas+into+working+software.;Building+with+Python+%26+Django.;Curious+about+systems%2C+AI+%26+software%2C+learning+by+building+real+projects.)](https://git.io/typing-svg)
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=4000&pause=1000&color=38C2FF&multiline=true&width=1180&height=220&lines=Hi+%F0%9F%91%8B+I'm+Shabnam.;Turning+ideas+into+working+software.;Building+with+Python+%26+Django.;Curious+about+systems%2C+AI+%26+software%2C+learning+by+building+real+projects." alt="Typing SVG" /></a>
+
 # Hi there, I'm Shabnam Parveen! 👋
 
 I am a Computer Science Engineering student specializing in **Artificial Intelligence and Data Science (AI-DS)**. I love building full-stack web applications and integrating intelligent features into them.
