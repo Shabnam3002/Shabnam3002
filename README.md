@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=4000&pause=1000&color=F8F7FF&background=EA1656F2&multiline=true&width=1180&height=220&lines=Hi+%F0%9F%91%8B+I'm+Shabnam.;Turning+ideas+into+working+software.;Building+with+Python+%26+Django.;Curious+about+systems%2C+AI+%26+software%2C+learning+by+building+real+projects.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=4000&pause=1000&color=F8F7FF&background=38222687&multiline=true&width=1180&height=220&lines=Hi+%F0%9F%91%8B+I'm+Shabnam.;Turning+ideas+into+working+software.;Building+with+Python+%26+Django.;Curious+about+systems%2C+AI+%26+software%2C+learning+by+building+real+projects.)](https://git.io/typing-svg)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shabnam3002&show_icons=true&theme=radical)
 
