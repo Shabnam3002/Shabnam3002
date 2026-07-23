@@ -89,11 +89,16 @@ Python • Django • SQL
 * A Django-powered restaurant website with AI integration.
 * Features menu ordering, payment processing, and an intelligent chatbot assistant.
 * Hosted live on PythonAnywhere.
+  
+</td>
+  
+<td widht="30%" align="center">
+
 </td>
 
-<tb> </tb>
 </tr>
-</tr>table>
+</table>
+
 
 ####  [Tic-Tac-Toe Web Game](https://github.com/Shabnam3002/tic-tac-toe)
 * A classic interactive game built with a Python/Django backend.
