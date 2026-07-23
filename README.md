@@ -2,11 +2,11 @@
 <!--
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shabnam3002&show_icons=true&theme=radical)
 ![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Shabnam3002&show_icons=true&theme=radical)
--->
+
 # Hi there, I'm Shabnam Parveen! 👋
 
 I am a Computer Science Engineering student specializing in **Artificial Intelligence and Data Science (AI-DS)**. I love building full-stack web applications and integrating intelligent features into them.
-
+-->
 ---
 
 ###  What I Do
