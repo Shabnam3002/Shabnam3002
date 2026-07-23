@@ -24,18 +24,17 @@ Rather than only studying concepts, I enjoy building projects that transform ide
 
 ---
 
-###  What I Do
-* 🌐 **Web Development:** Building robust backends and dynamic web applications using Python and Django.
-* 🤖 **AI & Data Science:** Exploring Natural Language Processing (NLP), Machine Learning, and Social Data Analysis.
-* ⚙️ **Deployment:** Hosting and optimizing web projects on cloud environments like PythonAnywhere.
-
----
-
 <p>
 
 <img src="https://skillicons.dev/icons?i=python,django,html,css,bootstrap,git,github,mysql" />
 
 </p>
+
+---
+###  What I Do
+* 🌐 **Web Development:** Building robust backends and dynamic web applications using Python and Django.
+* 🤖 **AI & Data Science:** Exploring Natural Language Processing (NLP), Machine Learning, and Social Data Analysis.
+* ⚙️ **Deployment:** Hosting and optimizing web projects on cloud environments like PythonAnywhere.
 
 ---
 
