@@ -16,7 +16,7 @@ I am a Computer Science Engineering student specializing in **Artificial Intelli
 
 # 👋 About Me
 
-I'm a Computer Science Engineering student who enjoys turning ideas into real software.
+I'm a Computer Science Engineering Artificial Intelligence Data Science student who enjoys turning ideas into real software.
 
 I love understanding how systems work, designing workflows, solving practical problems, and continuously learning new technologies.
 
@@ -24,6 +24,7 @@ Rather than only studying concepts, I enjoy building projects that transform ide
 
 ---
 
+### Building with
 <p align="center">
 
 <img src="https://skillicons.dev/icons?i=python,django,html,css,bootstrap,git,github,mysql" />
@@ -31,14 +32,8 @@ Rather than only studying concepts, I enjoy building projects that transform ide
 </p>
 
 ---
-###  What I Do
-* 🌐 **Web Development:** Building robust backends and dynamic web applications using Python and Django.
-* 🤖 **AI & Data Science:** Exploring Natural Language Processing (NLP), Machine Learning, and Social Data Analysis.
-* ⚙️ **Deployment:** Hosting and optimizing web projects on cloud environments like PythonAnywhere.
 
----
-
-#  Currently Exploring
+###  Currently Exploring
 
 - Artificial Intelligence (AI)
 - Data Science
@@ -65,22 +60,22 @@ Rather than only studying concepts, I enjoy building projects that transform ide
 * Optimized for fast backend processing speeds and hosted on PythonAnywhere.
 
 ---
-# 📚 What I'm Learning
 
-Currently improving my knowledge in
+### 💡 Why I Build
+I enjoy understanding how systems work.
 
-- Artificial Intelligence
-- Data Science
-- Machine Learning
-- Django
-- Software Architecture
-- Git & GitHub
+One of my favorite experiences was taking a business idea,
+breaking it into small workflows on paper,
+thinking through each algorithm step by step,
+and finally turning it into working software.
+
+Building projects is how I learn.
 
 ---
 
 # 🎯 Current Goal
 
-My goal is to become a software engineer who builds useful products, solves real-world problems, and continuously learns new technologies.
+I want to builds useful products & software that solves real-world problems while continuously learning better ways to design systems.
 
 ---
 
@@ -91,6 +86,38 @@ My goal is to become a software engineer who builds useful products, solves real
 ---
 
 ⭐ Thanks for visiting my profile!
+
+<table>
+<tr>
+<td width="70%">
+
+## 🚀 Cursory-AIP
+
+### 💡 Idea
+A platform that connects brands with genuine creators.
+
+### ⚡ Built With
+Python • Django • SQL
+
+### ✨ Features
+✔ Creator Verification
+✔ Bio-Code Verification
+✔ Trust Score
+✔ Direct UPI Logic
+
+🔗 Repository:
+https://github.com/Shabnam3002/Cursory-AIP
+
+</td>
+
+<td width="30%" align="center">
+
+<img src="PROJECT_SCREENSHOT_LINK" width="300"/>
+
+</td>
+
+</tr>
+</table>
 <!--
 **Shabnam3002/Shabnam3002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
