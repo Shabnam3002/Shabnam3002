@@ -24,7 +24,7 @@ Rather than only studying concepts, I enjoy building projects that transform ide
 
 ---
 
-<p>
+<p align="center">
 
 <img src="https://skillicons.dev/icons?i=python,django,html,css,bootstrap,git,github,mysql" />
 
