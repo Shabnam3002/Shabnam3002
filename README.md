@@ -64,7 +64,7 @@ Python • Django • SQL
 * Trust Score.
 * Direct UPI Logic.
 
-🔗 [Repository:](https://github.com/Shabnam3002/Cursory-AIP)
+🔗 [Repository here:-](https://github.com/Shabnam3002/Cursory-AIP)
 
 </td>
 
