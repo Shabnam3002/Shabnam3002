@@ -28,7 +28,6 @@ Rather than only studying concepts, I enjoy building projects that transform ide
 ---
 
 <h2 align="center"> Tech Stack</h2>
-
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,django,html,css,bootstrap,javascript,git,github,mysql,vscode"/>
 </p>
@@ -154,7 +153,7 @@ Repository →
 ---
 
 
-### 💡 Why I Build
+## 💡 Why I Build
 I enjoy understanding how systems work.
 
 One of my favorite experiences was taking a business idea,
@@ -167,7 +166,6 @@ Building projects is how I learn.
 ---
 
 ## 📚 Currently Learning
-
 - Artificial Intelligence
 - Data Science
 - Machine Learning
@@ -178,13 +176,12 @@ Building projects is how I learn.
 
 ---
 
-### 🎯 Current Goal
+## 🎯 Current Goal
 
 I want to builds useful product & software that solves real-world problems while continuously learning better ways to design systems.
 
----
 
-### 🌐 Connect With Me
+## 🌐 Connect With Me
 
 * 💼 [LinkedIn :-](https://linkedin.com/in/shabnam-a49292292)
 * 📧 [Email :-](shabnamparveen098098098@gmail.com)
