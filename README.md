@@ -16,18 +16,14 @@ I am a Computer Science Engineering student specializing in **Artificial Intelli
 
 ---
 
-###  Tech Stack & Tools
-* **Languages:** Python, HTML5, CSS3, JavaScript
-* **Frameworks & Libraries:** Django
-* **Databases & Tools:** Git, GitHub
-
----
 <p>
 
-<img src="https://skillicons.dev/icons?i=python,django,html,css,bootstrap,git,github,mysql" />
+<img src="https://skillicons.dev/icons?i=python, django, html,css,bootstrap,git,github,mysql" />
 
 </p>
+
 ---
+
 #  Currently Exploring
 
 - Artificial Intelligence (AI)
