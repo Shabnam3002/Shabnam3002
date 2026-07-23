@@ -29,7 +29,7 @@ Rather than only studying concepts, I enjoy building projects that transform ide
 
 <h2 align="center"> Tech Stack</h2>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,django,html,css,bootstrap,javascript,git,github,mysql,vscode"/>
+<img src="https://skillicons.dev/icons?i=python,django,html,css,bootstrap,git,github,mysql,vscode"/>
 </p>
 
 ---
@@ -60,7 +60,7 @@ Python • Django • SQL
 
 <td width="30%" align="center">
 
-<img src="https://raw.githubusercontent.com/Shabnam3002/Cursory-AIP/main/assests/user_profile.png" width="30"/>
+<img src="https://raw.githubusercontent.com/Shabnam3002/Cursory-AIP/main/assests/user_profile.png" width="530"/>
 
 
 </td>
