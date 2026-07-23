@@ -8,14 +8,14 @@ I am a Computer Science Engineering student specializing in **Artificial Intelli
 
 ---
 
-### 🚀 What I Do
+###  What I Do
 * 🌐 **Web Development:** Building robust backends and dynamic web applications using Python and Django.
 * 🤖 **AI & Data Science:** Exploring Natural Language Processing (NLP), Machine Learning, and Social Data Analysis.
 * ⚙️ **Deployment:** Hosting and optimizing web projects on cloud environments like PythonAnywhere.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+###  Tech Stack & Tools
 * **Languages:** Python, HTML5, CSS3, JavaScript
 * **Frameworks & Libraries:** Django
 * **Databases & Tools:** Git, GitHub
@@ -24,17 +24,17 @@ I am a Computer Science Engineering student specializing in **Artificial Intelli
 
 ### 📂 Featured Projects
 
-#### 🌾 [Momo AI Restaurant](https://github.com/Shabnam3002/MOMOAI09)
+####  [Cursory-AIP](https://github.com/Shabnam3002/Cursory-AIP)
+* Academic/Practical exploration repository focusing on AI implementations.
+
+####  [Momo AI Restaurant](https://github.com/Shabnam3002/MOMOAI09)
 * A Django-powered restaurant website with AI integration.
 * Features menu ordering, payment processing, and an intelligent chatbot assistant.
 * Hosted live on PythonAnywhere.
 
-#### ❌ [Tic-Tac-Toe Web Game](https://github.com/Shabnam3002/tic-tac-toe)
+####  [Tic-Tac-Toe Web Game](https://github.com/Shabnam3002/tic-tac-toe)
 * A classic interactive game built with a Python/Django backend.
 * Optimized for fast backend processing speeds and hosted on PythonAnywhere.
-
-#### 🔍 [Cursory-AIP](https://github.com/Shabnam3002/Cursory-AIP)
-* Academic/Practical exploration repository focusing on AI implementations.
 
 ---
 
