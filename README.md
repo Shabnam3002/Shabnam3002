@@ -117,9 +117,9 @@ I want to builds useful products & software that solves real-world problems whil
 💼 LinkedIn: https://linkedin.com/in/shabnam-a49292292
 
 ---
-<p align="center">
-<h2> ⭐ Thanks for visiting my profile! </h2>
-</p>
+<p2 align="center">
+ ⭐ Thanks for visiting my profile! 
+</p2>
 
 
 <!--
