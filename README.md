@@ -45,10 +45,10 @@ Rather than only studying concepts, I enjoy building projects that transform ide
 ### 💡 Idea
 A Django-based automated platform connecting brands with genuine social media creators.
 
-### ⚡ Built With
+###  Built With
 Python • Django • SQL
 
-### ✨ Features
+###  Features
 * Creator Verification.
 * Bio-Code Verification.
 * Trust Score.
@@ -60,7 +60,7 @@ Python • Django • SQL
 
 <td width="30%" align="center">
 
-<img src="https://raw.githubusercontent.com/Shabnam3002/Cursory-AIP/main/assests/user_profile.png" width="320"/>
+<img src="https://raw.githubusercontent.com/Shabnam3002/Cursory-AIP/main/assests/user_profile.png" width="30"/>
 
 
 </td>
@@ -78,7 +78,7 @@ Python • Django • SQL
 
 Restaurant Management System with AI chatbot.
 
-### ✨ Features
+###  Features
 
 - Food Ordering
 - AI Chatbot
@@ -97,7 +97,7 @@ Repository →
 
 <td width="30%" align="center">
 
-<img src="YOUR_SCREENSHOT_LINK" width="320"/>
+<img src="YOUR_SCREENSHOT_LINK" width="30"/>
 
 </td>
 
@@ -113,7 +113,7 @@ Repository →
 
 Classic web game with Django backend.
 
-### ✨ Features
+###  Features
 
 - Multiplayer Logic
 - Fast Backend
