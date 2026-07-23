@@ -14,7 +14,7 @@ I am a Computer Science Engineering student specializing in **Artificial Intelli
 -->
 ---
 
-### 👋 About Me <img width="306" height="420" alt="ThugLifeCatGIFbyTikTok" src="https://github.com/user-attachments/assets/8e2aceb7-fb16-4c42-b91c-2862fca052b2" />
+### 👋 About Me <img width="30" height="20" alt="ThugLifeCatGIFbyTikTok" src="https://github.com/user-attachments/assets/8e2aceb7-fb16-4c42-b91c-2862fca052b2" />
 
 
 I'm a Computer Science Engineering Artificial Intelligence Data Science student who enjoys turning ideas into real software.
