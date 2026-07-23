@@ -23,6 +23,18 @@ I am a Computer Science Engineering student specializing in **Artificial Intelli
 
 ---
 
+---
+
+# 🌱 Currently Exploring
+
+- Artificial Intelligence (AI)
+- Data Science
+- Machine Learning
+- Data Structures & Algorithms
+- Better Software Design
+
+---
+
 ### 📂 Featured Projects
 
 ####  [Cursory-AIP](https://github.com/Shabnam3002/Cursory-AIP)
@@ -39,11 +51,32 @@ I am a Computer Science Engineering student specializing in **Artificial Intelli
 * Optimized for fast backend processing speeds and hosted on PythonAnywhere.
 
 ---
+# 📚 What I'm Learning
 
-### 🌐 Connect with Me
-* 💼 **LinkedIn:** [shabnam-a49292292](https://linkedin.com/in/shabnam-a49292292)
+Currently improving my knowledge in
 
+- Artificial Intelligence
+- Data Science
+- Machine Learning
+- Django
+- Software Architecture
+- Git & GitHub
 
+---
+
+# 🎯 Current Goal
+
+My goal is to become a software engineer who builds useful products, solves real-world problems, and continuously learns new technologies.
+
+---
+
+# 🌐 Connect With Me
+
+💼 LinkedIn https://linkedin.com/in/shabnam-a49292292
+
+---
+
+⭐ Thanks for visiting my profile!
 <!--
 **Shabnam3002/Shabnam3002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
