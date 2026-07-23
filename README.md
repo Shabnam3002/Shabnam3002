@@ -118,7 +118,7 @@ I want to builds useful products & software that solves real-world problems whil
 
 ---
 <p align="center">
-### ⭐ Thanks for visiting my profile!
+<h2> ⭐ Thanks for visiting my profile! </h2>
 </p>
 
 
