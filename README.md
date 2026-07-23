@@ -19,7 +19,7 @@ I am a Computer Science Engineering student specializing in **Artificial Intelli
 
 ### <img width="60" height="60" alt="CatMovingGIF" src="https://github.com/user-attachments/assets/0191bb32-a65d-440c-9611-dfc810f842b1" />  About Me 
 
-I'm a Computer Science Engineering Artificial Intelligence Data Science student who enjoys turning ideas into real software.
+I'm a Computer Science Engineering student specializing in Artificial Intelligence & Data Science who enjoys turning ideas into real software.
 
 I love understanding how systems work, designing workflows, solving practical problems, and continuously learning new technologies.
 
@@ -27,23 +27,11 @@ Rather than only studying concepts, I enjoy building projects that transform ide
 
 ---
 
-### Building with
+<h2 align="center"> Tech Stack</h2>
+
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,django,html,css,bootstrap,git,github,mysql" />
-
+<img src="https://skillicons.dev/icons?i=python,django,html,css,bootstrap,javascript,git,github,mysql,vscode"/>
 </p>
-
----
-
-###  Currently Exploring🤔
-
-- Artificial Intelligence (AI)
-- Data Science
-- Machine Learning
-- Data Structures & Algorithms
-- Better Software Design
-- IBPS IT SO
 
 ---
 
@@ -82,16 +70,89 @@ Python • Django • SQL
 </table>
 
 
-####  [Momo AI Restaurant](https://github.com/Shabnam3002/MOMOAI09)
-* A Django-powered restaurant website with AI integration.
-* Features menu ordering, payment processing, and an intelligent chatbot assistant.
-* Hosted live on PythonAnywhere.
+<table>
+<tr>
+
+<td width="50%">
+
+<h2>MOMO AI Restaurant</h2>
+
+Restaurant Management System with AI chatbot.
+
+### ✨ Features
+
+- Food Ordering
+- AI Chatbot
+- Payment
+- User Authentication
+
+### 🛠 Tech
+
+Python • Django
+
+<a href="https://github.com/Shabnam3002/MOMOAI09">
+Repository →
+</a>
+
+</td>
+
+<td width="50%">
+
+<img src="YOUR_SCREENSHOT_LINK"/>
+
+</td>
+
+</tr>
+</table>
   
-####  [Tic-Tac-Toe Web Game](https://github.com/Shabnam3002/tic-tac-toe)
-* A classic interactive game built with a Python/Django backend.
-* Optimized for fast backend processing speeds and hosted on PythonAnywhere.
+<table>
+<tr>
+
+<td width="50%">
+
+<h2>Tic Tac Toe</h2>
+
+Classic web game with Django backend.
+
+### ✨ Features
+
+- Multiplayer Logic
+- Fast Backend
+- Responsive UI
+
+### 🛠 Tech
+
+Python • Django
+
+<a href="https://github.com/Shabnam3002/tic-tac-toe">
+Repository →
+</a>
+
+</td>
+
+<td width="50%">
+
+<img src="YOUR_SCREENSHOT_LINK"/>
+
+</td>
+
+</tr>
+</table>
 
 ---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shabnam3002&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Shabnam3002&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shabnam3002&layout=compact&theme=tokyonight)
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Shabnam3002/Shabnam3002/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+---
+
 
 ### 💡 Why I Build
 I enjoy understanding how systems work.
@@ -105,9 +166,21 @@ Building projects is how I learn.
 
 ---
 
+## 📚 Currently Learning
+
+- Artificial Intelligence
+- Data Science
+- Machine Learning
+- Django
+- System Design
+- DSA
+- IBPS IT Officer
+
+---
+
 ### 🎯 Current Goal
 
-I want to builds useful products & software that solves real-world problems while continuously learning better ways to design systems.
+I want to builds useful product & software that solves real-world problems while continuously learning better ways to design systems.
 
 ---
 
@@ -119,7 +192,9 @@ I want to builds useful products & software that solves real-world problems whil
 ---
 
 <p align="center">
- ⭐ Thanks for visiting my profile! 
+
+<img src="https://komarev.com/ghpvc/?username=Shabnam3002&label=Profile+Views&color=0e75b6&style=flat"/>
+
 </p>
 
 
