@@ -4,6 +4,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=4000&pause=1000&color=F8F7FF&background=38222687&center=true&vCenter=true&multiline=true&width=1180&height=220&lines=Hi+%F0%9F%91%8B+I'm+Shabnam.;Turning+ideas+into+working+software.;Building+with+Python+%26+Django.;Curious+about+systems,+AI+%26+software." />
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=38&pause=1000&color=FFFCFCF3&background=72C1BEC6&multiline=true&width=1180&height=250&lines=Hi++I'm+Shabnam.;Turning+ideas+into+working+software.;Building+with+Python+%26+Django.;Curious+about+systems%2C+AI+%26+software.;Learning+by+building+real+projects." />
+</p>
+    
 <!--
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shabnam3002&show_icons=true&theme=radical)
 ![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Shabnam3002&show_icons=true&theme=radical)
