@@ -22,10 +22,13 @@ I am a Computer Science Engineering student specializing in **Artificial Intelli
 * **Databases & Tools:** Git, GitHub
 
 ---
+<p>
 
+<img src="https://skillicons.dev/icons?i=python,django,html,css,bootstrap,git,github,mysql" />
+
+</p>
 ---
-
-# 🌱 Currently Exploring
+#  Currently Exploring
 
 - Artificial Intelligence (AI)
 - Data Science
@@ -72,7 +75,7 @@ My goal is to become a software engineer who builds useful products, solves real
 
 # 🌐 Connect With Me
 
-💼 LinkedIn https://linkedin.com/in/shabnam-a49292292
+💼 LinkedIn: https://linkedin.com/in/shabnam-a49292292
 
 ---
 
