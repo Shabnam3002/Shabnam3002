@@ -46,9 +46,40 @@ Rather than only studying concepts, I enjoy building projects that transform ide
 
 ### 📂 Featured Projects
 
-####  [Cursory-AIP](https://github.com/Shabnam3002/Cursory-AIP)
-* A Django-based automated platform connecting brands with genuine social media creators.
-* Engineered with automated Bio-Code verification, strict trust score limits, and direct UPI payout logic.
+<table>
+<tr>
+<td width="70%">
+
+## [Cursory-AIP](https://github.com/Shabnam3002/Cursory-AIP)
+
+### 💡 Idea
+A Django-based automated platform connecting brands with genuine social media creators.
+
+### ⚡ Built With
+Python • Django • SQL
+
+### ✨ Features
+* Creator Verification.
+* Bio-Code Verification.
+* Trust Score.
+* Direct UPI Logic.
+
+🔗 Repository:
+https://github.com/Shabnam3002/Cursory-AIP
+
+</td>
+
+<td width="320%" align="center">
+
+<img src="https://raw.githubusercontent.com/Shabnam3002/Cursory-AIP/main/assests/user_profile.png" width="320"/>
+
+
+</td>
+
+</tr>
+</table>
+
+---
 
 ####  [Momo AI Restaurant](https://github.com/Shabnam3002/MOMOAI09)
 * A Django-powered restaurant website with AI integration.
@@ -87,38 +118,7 @@ I want to builds useful products & software that solves real-world problems whil
 
 ### ⭐ Thanks for visiting my profile!
 
-<table>
-<tr>
-<td width="70%">
 
-## 🚀 Cursory-AIP
-
-### 💡 Idea
-A Django-based automated platform connecting brands with genuine social media creators.
-
-### ⚡ Built With
-Python • Django • SQL
-
-### ✨ Features
-* Creator Verification.
-* Bio-Code Verification.
-* Trust Score.
-* Direct UPI Logic.
-
-🔗 Repository:
-https://github.com/Shabnam3002/Cursory-AIP
-
-</td>
-
-<td width="30%" align="center">
-
-<img src="https://raw.githubusercontent.com/Shabnam3002/Cursory-AIP/main/assests/user_profile.png" width="320"/>
-
-
-</td>
-
-</tr>
-</table>
 
 <!--
 **Shabnam3002/Shabnam3002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
