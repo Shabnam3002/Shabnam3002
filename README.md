@@ -67,7 +67,7 @@ Python • Django • SQL
 * Trust Score.
 * Direct UPI Logic.
 
-🔗 [Repository here:-](https://github.com/Shabnam3002/Cursory-AIP)
+🔗 [Repository :-](https://github.com/Shabnam3002/Cursory-AIP)
 
 </td>
 
@@ -114,8 +114,8 @@ I want to builds useful products & software that solves real-world problems whil
 
 ### 🌐 Connect With Me
 
-💼 [LinkedIn :-](https://linkedin.com/in/shabnam-a49292292)
-📧 [Email :-](shabnamparveen098098098@gmail.com)
+* 💼 [LinkedIn :-](https://linkedin.com/in/shabnam-a49292292).
+* 📧 [Email :-](shabnamparveen098098098@gmail.com).
 
 ---
 
