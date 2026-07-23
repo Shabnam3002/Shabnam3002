@@ -81,12 +81,19 @@ Python • Django • SQL
 </tr>
 </table>
 
----
 
+<table>
+<tr>
+<td width="30%">
 ####  [Momo AI Restaurant](https://github.com/Shabnam3002/MOMOAI09)
 * A Django-powered restaurant website with AI integration.
 * Features menu ordering, payment processing, and an intelligent chatbot assistant.
 * Hosted live on PythonAnywhere.
+</td>
+
+<tb> </tb>
+</tr>
+</tr>table>
 
 ####  [Tic-Tac-Toe Web Game](https://github.com/Shabnam3002/tic-tac-toe)
 * A classic interactive game built with a Python/Django backend.
