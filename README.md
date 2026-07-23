@@ -25,7 +25,8 @@ I am a Computer Science Engineering student specializing in **Artificial Intelli
 ### 📂 Featured Projects
 
 ####  [Cursory-AIP](https://github.com/Shabnam3002/Cursory-AIP)
-* Academic/Practical exploration repository focusing on AI implementations.
+* A Django-based automated platform connecting brands with genuine social media creators.
+* Engineered with automated Bio-Code verification, strict trust score limits, and direct UPI payout logic.
 
 ####  [Momo AI Restaurant](https://github.com/Shabnam3002/MOMOAI09)
 * A Django-powered restaurant website with AI integration.
