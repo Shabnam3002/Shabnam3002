@@ -18,7 +18,7 @@ I am a Computer Science Engineering student specializing in **Artificial Intelli
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=python, django, html,css,bootstrap,git,github,mysql" />
+<img src="https://skillicons.dev/icons?i=python,django,html,css,bootstrap,git,github,mysql" />
 
 </p>
 
