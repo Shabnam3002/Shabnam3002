@@ -112,7 +112,8 @@ https://github.com/Shabnam3002/Cursory-AIP
 
 <td width="30%" align="center">
 
-<img src="https://raw.githubusercontent.com/Shabnam3002/Cursory-AIP/main/assets/user_profile.png" width="320"/>
+<img src="https://raw.githubusercontent.com/Shabnam3002/Cursory-AIP/main/assests/user_profile.png" width="320"/>
+
 
 </td>
 
