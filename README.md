@@ -193,7 +193,7 @@ I want to builds useful product & software that solves real-world problems while
 
 <p align="center">
 🌟 Thank you for visiting my profile.
-  
+ <br><br> 
 <img src="https://komarev.com/ghpvc/?username=Shabnam3002&label=Profile+Views&color=0e75b6&style=flat"/>
 
 </p>
