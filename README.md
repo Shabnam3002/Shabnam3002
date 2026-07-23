@@ -48,7 +48,7 @@ Rather than only studying concepts, I enjoy building projects that transform ide
 
 <table>
 <tr>
-<td width="70%">
+<td width="30%">
 
 ## [Cursory-AIP](https://github.com/Shabnam3002/Cursory-AIP)
 
@@ -68,7 +68,7 @@ Python • Django • SQL
 
 </td>
 
-<td width="320%" align="center">
+<td width="30%" align="center">
 
 <img src="https://raw.githubusercontent.com/Shabnam3002/Cursory-AIP/main/assests/user_profile.png" width="320"/>
 
