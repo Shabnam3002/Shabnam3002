@@ -72,7 +72,7 @@ Python • Django • SQL
 <table>
 <tr>
 
-<td width="50%">
+<td width="30%">
 
 <h2>MOMO AI Restaurant</h2>
 
@@ -95,9 +95,9 @@ Repository →
 
 </td>
 
-<td width="50%">
+<td width="30%" align="center">
 
-<img src="YOUR_SCREENSHOT_LINK"/>
+<img src="YOUR_SCREENSHOT_LINK" width="320"/>
 
 </td>
 
@@ -107,7 +107,7 @@ Repository →
 <table>
 <tr>
 
-<td width="50%">
+<td width="30%">
 
 <h2>Tic Tac Toe</h2>
 
