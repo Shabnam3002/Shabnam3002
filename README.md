@@ -14,7 +14,7 @@ I am a Computer Science Engineering student specializing in **Artificial Intelli
 -->
 ---
 
-# 👋 About Me
+### 👋 About Me
 
 I'm a Computer Science Engineering Artificial Intelligence Data Science student who enjoys turning ideas into real software.
 
@@ -33,7 +33,7 @@ Rather than only studying concepts, I enjoy building projects that transform ide
 
 ---
 
-###  Currently Exploring
+###  Currently Exploring🤔
 
 - Artificial Intelligence (AI)
 - Data Science
@@ -73,19 +73,19 @@ Building projects is how I learn.
 
 ---
 
-# 🎯 Current Goal
+### 🎯 Current Goal
 
 I want to builds useful products & software that solves real-world problems while continuously learning better ways to design systems.
 
 ---
 
-# 🌐 Connect With Me
+### 🌐 Connect With Me
 
 💼 LinkedIn: https://linkedin.com/in/shabnam-a49292292
 
 ---
 
-⭐ Thanks for visiting my profile!
+### ⭐ Thanks for visiting my profile!
 
 <table>
 <tr>
@@ -94,16 +94,16 @@ I want to builds useful products & software that solves real-world problems whil
 ## 🚀 Cursory-AIP
 
 ### 💡 Idea
-A platform that connects brands with genuine creators.
+A Django-based automated platform connecting brands with genuine social media creators.
 
 ### ⚡ Built With
 Python • Django • SQL
 
 ### ✨ Features
-✔ Creator Verification
-✔ Bio-Code Verification
-✔ Trust Score
-✔ Direct UPI Logic
+* Creator Verification.
+* Bio-Code Verification.
+* Trust Score.
+* Direct UPI Logic.
 
 🔗 Repository:
 https://github.com/Shabnam3002/Cursory-AIP
@@ -118,6 +118,7 @@ https://github.com/Shabnam3002/Cursory-AIP
 
 </tr>
 </table>
+
 <!--
 **Shabnam3002/Shabnam3002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
