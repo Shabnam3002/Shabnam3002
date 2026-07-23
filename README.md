@@ -1,4 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=4000&pause=1000&color=F8F7FF&background=38222687&multiline=true&width=1180&height=220&lines=Hi+%F0%9F%91%8B+I'm+Shabnam.;Turning+ideas+into+working+software.;Building+with+Python+%26+Django.;Curious+about+systems%2C+AI+%26+software%2C+learning+by+building+real+projects.)](https://git.io/typing-svg)
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=4000&pause=1000&color=F8F7FF&background=38222687&center=true&vCenter=true&multiline=true&width=900&height=120&lines=Hi+%F0%9F%91%8B+I'm+Shabnam.;Turning+ideas+into+working+software.;Building+with+Python+%26+Django.;Curious+about+systems,+AI+%26+software." />
+</p>
+
 <!--
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shabnam3002&show_icons=true&theme=radical)
 ![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Shabnam3002&show_icons=true&theme=radical)
@@ -7,6 +12,16 @@
 
 I am a Computer Science Engineering student specializing in **Artificial Intelligence and Data Science (AI-DS)**. I love building full-stack web applications and integrating intelligent features into them.
 -->
+---
+
+# 👋 About Me
+
+I'm a Computer Science Engineering student who enjoys turning ideas into real software.
+
+I love understanding how systems work, designing workflows, solving practical problems, and continuously learning new technologies.
+
+Rather than only studying concepts, I enjoy building projects that transform ideas into working applications.
+
 ---
 
 ###  What I Do
@@ -31,6 +46,7 @@ I am a Computer Science Engineering student specializing in **Artificial Intelli
 - Machine Learning
 - Data Structures & Algorithms
 - Better Software Design
+- IBPS IT SO
 
 ---
 
